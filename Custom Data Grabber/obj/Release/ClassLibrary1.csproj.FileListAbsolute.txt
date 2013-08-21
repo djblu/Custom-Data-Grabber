@@ -1,0 +1,17 @@
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\Gentle.Common.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\Gentle.Framework.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\TvControl.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\TVDatabase.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\TVLibrary.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\TvLibrary.Interfaces.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\log4net.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\DirectShowLib.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\TvBusinessLayer.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\TvLibrary.Utils.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\Common.Utils.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\bin\Release\MySql.Data.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+c:\users\development\documents\visual studio 2010\Projects\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.pdb
